@@ -44,5 +44,7 @@ tutorial:
 
 
 Autores \ Authors:
+
 Dhelbegor Vredesbyrd: dhelbegor@gmail.com
+
 Lario Diniz: lariodiniz@gmail.com
